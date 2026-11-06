@@ -1,0 +1,238 @@
+{
+  "places": [
+    {
+      "id": "victoriapeak",
+      "name": "Victoria Peak",
+      "description": "Visit the best view on the city.",
+      "link": "https://maps.app.goo.gl/Cmyh6EJXdjH6qs1z5",
+      "categories": [
+        "Must-See",
+        "Culture"
+      ],
+      "area": 1,
+      "image": "default1.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "repulsebaybeach",
+      "name": "Repulse Bay Beach",
+      "description": "Take a swim and tan on the beach.",
+      "link": "https://maps.app.goo.gl/g5YEpLnjX9BogP5U9",
+      "categories": [
+        "Sport"
+      ],
+      "area": 1,
+      "image": "default2.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "thetwins",
+      "name": "The Twins",
+      "description": "Hike on the south of Hong Kong island.",
+      "link": "https://maps.app.goo.gl/4MfC3iVAS27xtwA4A",
+      "categories": [
+        "Sport",
+        "Nature"
+      ],
+      "area": 1,
+      "image": "default1.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "dragonsback",
+      "name": "Dragon's Back",
+      "description": "Hike on the south-east of Hong Kong island.",
+      "link": "https://maps.app.goo.gl/vsZWxJQvVmUR626G7",
+      "categories": [
+        "Sport",
+        "Nature"
+      ],
+      "area": 1,
+      "image": "default3.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "jockeyclub",
+      "name": "Jockey Club",
+      "description": "Bet on a horse race.",
+      "link": "https://maps.app.goo.gl/GwEVjZg4GnXCU52v8",
+      "categories": [
+        "Sport",
+        "Culture"
+      ],
+      "area": 1,
+      "image": "default3.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "causewaybay",
+      "name": "Causeway Bay",
+      "description": "Busy shopping district with many stores and restaurants.",
+      "link": "https://maps.app.goo.gl/ccajpvzUaGU3HWRKA",
+      "categories": [
+        "Shopping",
+        "Culture"
+      ],
+      "area": 1,
+      "image": "default3.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "centralmarket",
+      "name": "Central Market",
+      "description": "Indoor market with a wide variety of food stalls with diverse cuisines and unique local crafts and souvenirs.",
+      "link": "https://maps.app.goo.gl/wjeM93BEQTzYT7NJ8",
+      "categories": [
+        "Culture",
+        "Shopping"
+      ],
+      "area": 1,
+      "image": "default1.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "hkexhibitioncentre",
+      "name": "Hong Kong Convention and Exhibition Centre",
+      "description": "Visit the seasonal exhibitis and convention. Enjoy the view of Victoria Harbour.",
+      "link": "https://maps.app.goo.gl/jFTYdSmUTaei9WzB7",
+      "categories": [
+        "Culture"
+      ],
+      "area": 1,
+      "image": "default2.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "oceanpark",
+      "name": "Ocean Park",
+      "description": "Hong Kong marine-life and animal theme park.",
+      "link": "https://maps.app.goo.gl/7MHBXyjMKQfQjhK38",
+      "categories": [
+        "Culture",
+        "Must-See"
+      ],
+      "area": 1,
+      "image": "default1.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "hkheritagemuseum",
+      "name": "Hong Kong Heritage Museum",
+      "description": "Learn about the history and culture of Hong Kong.",
+      "link": "https://maps.app.goo.gl/KEsrbMfaW7SEVqAp6",
+      "categories": [
+        "Culture",
+        "Must-See"
+      ],
+      "area": 2,
+      "image": "default3.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "shatinracecourse",
+      "name": "Sha Tin Racecourse",
+      "description": "Watch horse races and enjoy the scenic views.",
+      "link": "https://maps.app.goo.gl/xBm4HTqb5LP9ZbAN8",
+      "categories": [
+        "Sport",
+        "Culture"
+      ],
+      "area": 2,
+      "image": "default3.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "waterfrontpark",
+      "name": "Pak Shek Kok Waterfront Park",
+      "description": "Nice walk area with views of Tolo Harbour",
+      "link": "https://maps.app.goo.gl/ppquYsZw3eJQgBSFA",
+      "categories": [
+        "Sport",
+        "Nature"
+      ],
+      "area": 2,
+      "image": "default2.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "avenueofstars",
+      "name": "Avenue of Stars",
+      "description": "Beautiful view from the promenade with handprints & plaques honoring Hong Kong film stars, plus a Bruce Lee statue.",
+      "link": "https://maps.app.goo.gl/NSELxK5V2oR6CNoN7",
+      "categories": [
+        "Culture",
+        "Must-See"
+      ],
+      "area": 3,
+      "image": "default1.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "palacemuseum",
+      "name": "Hong Kong Palace Museum",
+      "description": ".",
+      "link": "https://maps.app.goo.gl/KJc7kv8XR3epjb7AA",
+      "categories": [
+        "Culture",
+        "Must-See"
+      ],
+      "area": 3,
+      "image": "default1.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "mkflowermarket",
+      "name": "Mong Kok Flower Market",
+      "description": "A vibrant market selling fresh flowers and plants.",
+      "link": "https://maps.app.goo.gl/FsBEVLMPyVn988Qr8",
+      "categories": [
+        "Shopping"
+      ],
+      "area": 3,
+      "image": "default1.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "ladiesmarket",
+      "name": "Ladies Market",
+      "description": "A bustling market known for its variety of goods and lively atmosphere.",
+      "link": "https://maps.app.goo.gl/VcHb76HTnf18BYNi6",
+      "categories": [
+        "Shopping"
+      ],
+      "area": 3,
+      "image": "default3.jpg",
+      "locked": false,
+      "completed": false
+    },
+    {
+      "id": "nanliangarden",
+      "name": "Nan Lian Garden",
+      "description": "A traditional Chinese garden with beautiful landscaping.",
+      "link": "https://maps.app.goo.gl/CB1c1V3dsyyGUEXS8",
+      "categories": [
+        "Culture",
+        "Nature"
+      ],
+      "area": 3,
+      "image": "default2.jpg",
+      "locked": false,
+      "completed": false
+    }
+  ]
+}
